@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/gender-reveal/static/css/main.bacadae1.css",
-    "main.js": "/gender-reveal/static/js/main.80b0c4da.js",
+    "main.css": "/gender-reveal/static/css/main.cc192759.css",
+    "main.js": "/gender-reveal/static/js/main.d7220ff6.js",
     "static/js/787.ce1f1cac.chunk.js": "/gender-reveal/static/js/787.ce1f1cac.chunk.js",
     "index.html": "/gender-reveal/index.html",
-    "main.bacadae1.css.map": "/gender-reveal/static/css/main.bacadae1.css.map",
-    "main.80b0c4da.js.map": "/gender-reveal/static/js/main.80b0c4da.js.map",
+    "main.cc192759.css.map": "/gender-reveal/static/css/main.cc192759.css.map",
+    "main.d7220ff6.js.map": "/gender-reveal/static/js/main.d7220ff6.js.map",
     "787.ce1f1cac.chunk.js.map": "/gender-reveal/static/js/787.ce1f1cac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bacadae1.css",
-    "static/js/main.80b0c4da.js"
+    "static/css/main.cc192759.css",
+    "static/js/main.d7220ff6.js"
   ]
 }
