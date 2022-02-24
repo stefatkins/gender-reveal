@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/gender-reveal/static/css/main.bb6865d5.css",
-    "main.js": "/gender-reveal/static/js/main.30d0d157.js",
+    "main.css": "/gender-reveal/static/css/main.3bfa72dc.css",
+    "main.js": "/gender-reveal/static/js/main.fdabd1c3.js",
     "static/js/787.ce1f1cac.chunk.js": "/gender-reveal/static/js/787.ce1f1cac.chunk.js",
     "static/media/weight.svg": "/gender-reveal/static/media/weight.b0b3453d781173dd32b174546ec0cb46.svg",
     "static/media/ruler.svg": "/gender-reveal/static/media/ruler.1fa8567654037528693e0fe1fa02470e.svg",
     "index.html": "/gender-reveal/index.html",
-    "main.bb6865d5.css.map": "/gender-reveal/static/css/main.bb6865d5.css.map",
-    "main.30d0d157.js.map": "/gender-reveal/static/js/main.30d0d157.js.map",
+    "main.3bfa72dc.css.map": "/gender-reveal/static/css/main.3bfa72dc.css.map",
+    "main.fdabd1c3.js.map": "/gender-reveal/static/js/main.fdabd1c3.js.map",
     "787.ce1f1cac.chunk.js.map": "/gender-reveal/static/js/787.ce1f1cac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb6865d5.css",
-    "static/js/main.30d0d157.js"
+    "static/css/main.3bfa72dc.css",
+    "static/js/main.fdabd1c3.js"
   ]
 }
