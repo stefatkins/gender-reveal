@@ -81,7 +81,7 @@ const App = () => {
     <div
       className={`pyro grid justify-center ${
         diffInDays < 0 && genderColor
-          ? `bg-${genderColor}-200`
+          ? `bg-${genderColor}-600`
           : 'bg-gradient-to-r from-blue-200 to-pink-200'
       } min-h-screen p-16 `}
     >
