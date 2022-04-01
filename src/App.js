@@ -231,7 +231,15 @@ const App = () => {
           <div className='after' />
           <div className='flex items-center justify-center'>
             <div className='text-white text-4xl text-center'>
-              C'est {GENDERS[process.env.REACT_APP_SECRET_GENDER]} !
+              C'est {GENDERS[process.env.REACT_APP_SECRET_GENDER]} !<br />
+              <a
+                className='underline text-white text-lg'
+                href='https://www.listedenaissance.fr/durant%20atkinson'
+                target='_blank'
+                rel='noreferrer'
+              >
+                Liste de naissance
+              </a>
             </div>
           </div>
         </>
